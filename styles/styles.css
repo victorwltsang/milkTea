@@ -1,0 +1,56 @@
+/**{
+  border:1px dashed blue;
+}*/
+
+body{
+  background-color: #28d0c3 !important;
+
+
+  box-sizing: border-box;
+  padding-top:20px;
+}
+header{
+  text-align:center;
+  color:white;
+}
+
+.container{
+  margin-top:10vh;
+}
+
+#cup{
+/*border-right: 2px solid rgba(255, 255, 255, 0.75);*/
+
+}
+#tea{
+
+}
+.pickTea{
+  margin-bottom:5vh;
+
+}
+.myBtn{
+  width:125px;
+  height:125px;
+  padding:15px;
+  border-radius:50%;
+  border:3px solid white;
+  font-size:20px;
+  color:white;
+}
+
+.green{
+  background-color: #a9cc97;
+}
+.red{
+  background-color: #cc4807;
+}
+.grey{
+  background-color: #ac8f7d;
+}
+.ice{
+  background-color:#62a2f2;
+}
+.sugar{
+  background-color:#d89633;
+}
