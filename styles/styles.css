@@ -22,12 +22,13 @@ header{
 /*border-right: 2px solid rgba(255, 255, 255, 0.75);*/
 
 }
-#tea{
-
+#selection{
+margin-top:20px;
 }
 .pickTea{
-  margin-bottom:5vh;
-
+font-size:120%;
+font-weight: bold;
+  color:white;
 }
 .myBtn{
   width:125px;
@@ -53,4 +54,40 @@ header{
 }
 .sugar{
   background-color:#d89633;
+}
+.pickTea:hover{
+  color:white !important;
+}
+.panel{
+  background-color: #1a9e94 !important;
+  border:1px solid #23b7ac !important;
+}
+.panel-heading{
+  background-color: #1a9e94 !important;
+  border:1px solid #23b7ac !important;
+
+}
+.panel-body{
+  border-top:1px solid rgba(255,255,255,0.65) !important;
+}
+.ice-25{
+visibility: hidden;
+}
+.ice-50{
+visibility: hidden;
+}
+.honey-1{
+  visibility: hidden;
+}
+.honey-2{
+  visibility: hidden;
+}
+
+.order-info{
+  color:white;
+  font-size:125%;
+  margin-bottom: 20px;
+}
+.order{
+  text-align: center;
 }

@@ -1,0 +1,48 @@
+
+  <div class="row">
+<h2 class="pickTea">Select a tea: </h2>
+    <div class="col-md-4">
+  <button class="myBtn green" id="greenTea">Jasmine Milk Tea</button>
+</div>
+
+<div class="col-md-4">
+<button class="myBtn red" id="redTea">Thai Milk Tea</button>
+</div>
+
+<div class="col-md-4">
+<button class="myBtn grey" id="blackTea">Oolong Milk Tea</button>
+</div>
+
+</div><!-- end row -->
+<div class="row">
+<h2 class="pickTea">Select ice level: </h2>
+  <div class="col-md-4">
+<button class="myBtn ice" id="">0%</button>
+</div>
+
+<div class="col-md-4">
+<button class="myBtn ice" id="">25%</button>
+</div>
+
+<div class="col-md-4">
+<button class="myBtn ice" id="">50%</button>
+</div>
+
+
+</div><!-- end row -->
+<div class="row">
+<h2 class="pickTea">Select sweetness level: </h2>
+  <div class="col-md-4">
+<button class="myBtn sugar" id="">100%</button>
+</div>
+
+<div class="col-md-4">
+<button class="myBtn sugar" id="">90%</button>
+</div>
+
+<div class="col-md-4">
+<button class="myBtn sugar" id="">80%</button>
+</div>
+
+
+</div><!-- end row -->
